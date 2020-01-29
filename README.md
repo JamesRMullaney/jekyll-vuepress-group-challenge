@@ -5,5 +5,4 @@ by James Mullaney and Lucas Rodgers
 Goals for this project:  
 - Get an A
 - That's it 
-- test
 ## Second Second Level Header
